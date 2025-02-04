@@ -1,0 +1,7 @@
+costura.costura.dll.compressed|6.0.0.0|Costura, Version=6.0.0.0, Culture=neutral, PublicKeyToken=9919ef960d84173d|Costura.dll|028E9832F421F11F9497C610F1734E0F3D868037|5120
+costura.costura.pdb.compressed|||Costura.pdb|806F4C19B2D7FD9E3B836269EC07647019A29E95|7960
+costura.microsoft.windows.sdk.net.dll.compressed|10.0.26100.34|Microsoft.Windows.SDK.NET, Version=10.0.26100.34, Culture=neutral, PublicKeyToken=31bf3856ad364e35|Microsoft.Windows.SDK.NET.dll|B225F0982282FC11611E2E71140372C7EFF62EEA|22940192
+costura.winrt.runtime.dll.compressed|2.0.0.0|WinRT.Runtime, Version=2.0.0.0, Culture=neutral, PublicKeyToken=99ea127f02d97709|WinRT.Runtime.dll|C44358550CB13399D8D45B5B6B6FB00E3C311823|399792
+costura.microsoft.web.webview2.core.dll.compressed|1.0.2903.40|Microsoft.Web.WebView2.Core, Version=1.0.2903.40, Culture=neutral, PublicKeyToken=2a8ab48044d2601e|Microsoft.Web.WebView2.Core.dll|4176D5607859817A0B44A253C34F7EDB3A46F21E|603712
+costura.microsoft.web.webview2.winforms.dll.compressed|1.0.2903.40|Microsoft.Web.WebView2.WinForms, Version=1.0.2903.40, Culture=neutral, PublicKeyToken=2a8ab48044d2601e|Microsoft.Web.WebView2.WinForms.dll|12AA63046320AAFCA64AD00F2BFA42A449EE1737|38992
+costura.microsoft.web.webview2.wpf.dll.compressed|1.0.2903.40|Microsoft.Web.WebView2.Wpf, Version=1.0.2903.40, Culture=neutral, PublicKeyToken=2a8ab48044d2601e|Microsoft.Web.WebView2.Wpf.dll|2F1D0591192852BCBB82A68084C39F90519B8753|83536
